@@ -1,0 +1,46 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>HELLO &#38; WELCOME TO MY WEBSITE </h1>
+    <p>wana play mario click the little mario (when playing use fullscreen, f11 for best user experience) </p>
+    <button onclick="window.location.href='https://jcw87.github.io/c2-smb1/';"><img src="https://mario.wiki.gallery/images/thumb/3/38/Mario_Map_Artwork.png/200px-Mario_Map_Artwork.png" alt="mario_reading"/></button> 
+    
+    <p>now i must warn you just before you start you might encounter some weired things</p>
+    <p> now on to the real website</p>
+    
+    <button onClick="window.location.href='https://as1.ftcdn.net/v2/jpg/01/50/56/50/1000_F_150565029_N4oXsVjdGTF3tlpf5TtyZXXMmmmOjuQw.jpg';">
+      
+             <img class="img" src="https://media3.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif"/> 
+      </button>
+    
+    <p>oh no it looks like it needs to load here use this to practice typeing click the keyboard below to start!</p>
+  
+    <a target="game" href="https://www.typing.com/student/game/keyboard-ninja"> 
+    
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtatpsr7VQMidLiQ44L57-6QqzGQUDIrsjOQ&usqp=CAU">
+    
+    </a>
+    <table id="game">
+      </table>
+             
+    
+    <p>alright it looks like its still loading try these</p>
+    
+    <ul>
+      <li> reload the page</li>
+      <li>press close and re open page </li>
+      <li>click the loading symbol</li>
+        </ul>
+      
+     
+    
+    
+    
+
+    
+    
+    
+ </body>
+</html>
